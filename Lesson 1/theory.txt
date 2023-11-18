@@ -1,0 +1,40 @@
+Chapter 01 - Inception
+
+==> Key Points
+
+In this lesson, we have created a React Application using React CDNs with plain HTML, JS and CSS
+
+1. Every element is an Object
+2. Script should be inside the body and the React CDN scrpits should be top of anything.
+3. <link> tag defines the relationship between the current document and an external resource.
+   rel - Specifies the relationship between the current document and the linked document
+
+====== Q/A ======
+
+● What is Emmet?
+- Emmet provides us Abbreviations for shortcuts which provides some defined structure of the syntax
+
+● Difference between a Library and Framework?
+- Library: It allows us to user different packages which are available for specific use cases.
+- Framework: It contains predefined packages which are required for the application.
+
+● What is CDN? Why do we use it?
+- It is Script about the library, which allows us to quickly setup a environment to build something.
+
+● Why is React known as React?
+- React is a Frontend Technology, which allows user to interact with it. 
+  Like clicking on Button it create some action. So is Called React, hence it reacts.
+
+● What is crossorigin in script tag?
+- Crossorigin attribute is used to share the Resource from different server Cross origin Resource Sharing
+
+● What is diference between React and ReactDOM
+- React library is responsible for creating views and create elements, etc.,
+- ReactDOM library is responsible to actually render UI in the browser, and it contains Virtual DOM.
+
+● What is difference between react.development.js and react.production.js files via CDN?
+- react.development.js - Development version, it is recommended for development and it is high in file size
+- react.production.js - Made for Production and it is Optimiszed.
+
+● What is async and defer?
+Refer - https://www.youtube.com/watch?v=IrHmpdORLu8
